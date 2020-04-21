@@ -114,8 +114,14 @@
     "jdorn/sql-formatter": {
         "version": "v1.2.17"
     },
+    "knplabs/knp-components": {
+        "version": "v2.3.3"
+    },
     "knplabs/knp-markdown-bundle": {
         "version": "1.8.1"
+    },
+    "knplabs/knp-paginator-bundle": {
+        "version": "v5.1.1"
     },
     "knplabs/knp-time-bundle": {
         "version": "v1.11.0"
@@ -434,7 +440,13 @@
     "symfony/orm-pack": {
         "version": "v1.0.8"
     },
+    "symfony/polyfill-intl-grapheme": {
+        "version": "v1.15.0"
+    },
     "symfony/polyfill-intl-idn": {
+        "version": "v1.15.0"
+    },
+    "symfony/polyfill-intl-normalizer": {
         "version": "v1.15.0"
     },
     "symfony/polyfill-mbstring": {
@@ -468,6 +480,9 @@
     },
     "symfony/stopwatch": {
         "version": "v4.4.7"
+    },
+    "symfony/string": {
+        "version": "v5.0.7"
     },
     "symfony/templating": {
         "version": "v4.4.7"
@@ -532,6 +547,9 @@
         "version": "v4.4.7"
     },
     "twig/extra-bundle": {
+        "version": "v3.0.3"
+    },
+    "twig/string-extra": {
         "version": "v3.0.3"
     },
     "twig/twig": {
