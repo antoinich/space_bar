@@ -8,6 +8,8 @@ Run composer install to dl all dependencies
 
 change your credentials in .env for your mysql server
 
+run php bin/console doctrine:database:create to create your database
+
 load the fixtures : php bin/console doctrine:fixture:load, now you have fake datas.
 
 Run the server : php bin/console server:run or symfony serve
